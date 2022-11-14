@@ -11,7 +11,7 @@ My final graduation work was all about women in architecture, and you can check 
 
 <div align="center">
   <a href="https://github.com/ferfahl>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ferfahl&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ferfahl&layout=compact&langs_count=7"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferfahl&layout=compact&langs_count=7&theme=transparent"/>
 </div>
                                                                                                                                               
