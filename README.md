@@ -1,4 +1,4 @@
-### Hi there 👋
+###### Hello :)
 
 ### 42SP
 I'm a software engineering student at École 42, located in São Paulo, Brazil.
