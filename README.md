@@ -9,4 +9,4 @@ If you want to check some of my projects, check my [github page](https://ferfahl
 Graduated from FAU-USP in 2021, I'm currently working as a Illumination Projects Analist.
 My final graduation work was all about women in architecture, and you can check it on my [Issuu page](https://issuu.com/fern_fahl/docs/tfg_representatividade_feminina_na_arquitetura_-_f) (Portuguese version)
 
-![ferfahl Status](https://github-readme-stats.vercel.app/api?username=ferfahl&show_icons=true) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferfahl&layout=compact)](https://github.com/ferfahl/github-readme-stats)
+![ferfahl Status](https://github-readme-stats.vercel.app/api?username=ferfahl&show_icons=true&theme=transparent) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferfahl&layout=compact&theme=transparent)](https://github.com/ferfahl/github-readme-stats)
