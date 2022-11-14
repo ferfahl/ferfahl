@@ -18,4 +18,4 @@ My final graduation work was all about women in architecture, and you can check 
 </div>
                                                                                                                                               
 ##### If you want to contact me, try one of the bellow:
-[<img height="32" width="32" src="https://i0.wp.com/solistica.com/wp-content/uploads/2019/10/linkedin.png" />](https://www.linkedin.com/in/fernanda-fahl/) [<img height="32" width="32" src="https://user-images.githubusercontent.com/102756887/201764081-0f580f95-9c82-4f1b-b83e-e8ff5c78a1bf.png" />](mailto:fe.alves.fahl@gmail.com?Subject=Contact%20me%21)
+[<img height="32" width="32" src="https://i0.wp.com/solistica.com/wp-content/uploads/2019/10/linkedin.png" />](https://www.linkedin.com/in/fernanda-fahl/) [<img height="32" width="32" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/mail.png?raw=true"/>](mailto:fe.alves.fahl@gmail.com?Subject=Contact%20me%21)
