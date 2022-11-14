@@ -12,4 +12,4 @@ My final graduation work was all about women in architecture, and you can check 
 ![ferfahl Status](https://github-readme-stats.vercel.app/api?username=ferfahl&show_icons=true&theme=transparent) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferfahl&layout=compact&theme=transparent)](https://github.com/ferfahl/github-readme-stats)
 
 ### If you want to contact me, try one of the bellow:
-[![LinkedIn](https://i0.wp.com/solistica.com/wp-content/uploads/2019/10/linkedin.png)](https://www.linkedin.com/in/fernanda-fahl/) [![Email](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDLjeS-EmpqmGjTw5NjZysTpFBhEN48rXXQ&usqp=CAU)](mailto:fe.alves.fahl@gmail.com?Subject=Contact%20me%21)
+[<img height="32" width="32" src="https://i0.wp.com/solistica.com/wp-content/uploads/2019/10/linkedin.png" />](https://www.linkedin.com/in/fernanda-fahl/) [<img height="32" width="32" src="https://www.nicepng.com/png/detail/90-903914_e-mail-png-hd-round-email-icon-png.png" />](mailto:fe.alves.fahl@gmail.com?Subject=Contact%20me%21)
