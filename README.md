@@ -9,7 +9,8 @@ If you want to check some of my projects, check my [github page](https://ferfahl
 Graduated from FAU-USP in 2021, I'm currently working as a Illumination Projects Analist.
 My final graduation work was all about women in architecture, and you can check it on my [Issuu page](https://issuu.com/fern_fahl/docs/tfg_representatividade_feminina_na_arquitetura_-_f) (Portuguese version)
 
-[<img height="180em" scr="https://github-readme-stats.vercel.app/api?username=ferfahl&show_icons=true&theme=transparent"/>] [<img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=ferfahl&layout=compact&theme=transparent)/>](https://github.com/ferfahl/github-readme-stats")
+[<img height="90" scr="https://github-readme-stats.vercel.app/api?username=ferfahl&show_icons=true&theme=transparent"/>] 
+[<img height="90" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=ferfahl&layout=compact&theme=transparent"/>](https://github.com/ferfahl/github-readme-stats")
 
 ##### If you want to contact me, try one of the bellow:
 [<img height="32" width="32" src="https://i0.wp.com/solistica.com/wp-content/uploads/2019/10/linkedin.png" />](https://www.linkedin.com/in/fernanda-fahl/) [<img height="32" width="32" src="https://www.nicepng.com/png/detail/90-903914_e-mail-png-hd-round-email-icon-png.png" />](mailto:fe.alves.fahl@gmail.com?Subject=Contact%20me%21)
