@@ -1,4 +1,4 @@
-###### Hello :)
+###### Hello :) My name is Fernanda Fahl, but you can call me Fer!
 
 ### 42SP
 I'm a software engineering student at École 42, located in São Paulo, Brazil.
