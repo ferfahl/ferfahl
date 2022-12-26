@@ -2,8 +2,7 @@
 
 ### 42SP
 I'm a software engineering student at École 42, located in São Paulo, Brazil.
-Currently on the 1st phase of the curriculum, and evolving.
-If you want to check some of my projects, check my [github page](https://ferfahl.github.io/)!
+Just started the 2nd phase of the curriculum! If you want to check some of my projects, check my [github page](https://ferfahl.github.io/)!
 
 ### Architecture & Urbanism
 Graduated from FAU-USP in 2021, I'm currently working as a Illumination Projects Analist.
