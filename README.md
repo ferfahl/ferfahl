@@ -1,8 +1,8 @@
 ###### Hello :) My name is Fernanda Fahl, but you can call me Fer!
 
 ### 42SP
-I'm a software engineering student at École 42, located in São Paulo, Brazil.
-Currently at the 2nd phase of the curriculum, doing the cub3D project! If you want to check some of my projects, check my [github page](https://ferfahl.github.io/)!
+I was a software engineering student at École 42, located in São Paulo, Brazil.
+Finished all the course projects with success! If you want to check some of my projects, check my [github page](https://ferfahl.github.io/)!
 
 <div align="center">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli7l4sim001108mvngbgwmeh/stats?cursusId=21&coalitionId=undefined" alt="feralves's 42 stats" /></a>
