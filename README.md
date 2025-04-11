@@ -1,7 +1,7 @@
 ###### Hello :) My name is Fernanda Fahl, but you can call me Fer!
 
 ### Work
-Currently working at Itaú as a Junior Developer Software. The product I'm working with is called BRE, as in Business Rule Engine, if you want to know more, just contact me in the links down below!
+Currently working at Itaú as a Junior Developer Software. The product I'm working with is called iPaaS Digibee, if you want to know more, just contact me in the links down below!
 
 ### 42SP
 I was a software engineering student at École 42, located in São Paulo, Brazil.
